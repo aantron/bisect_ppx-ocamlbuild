@@ -19,6 +19,7 @@ maintainer: [
 depends: [
   "bisect_ppx" {>= "1.0.0"}
   "dune" {build}
+  "ocaml"
   "ocamlbuild"
   "ocamlfind"
 ]
